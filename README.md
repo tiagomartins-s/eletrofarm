@@ -61,3 +61,12 @@ Após a instalação, o sistema monitorará as condições ambientais continuame
 ---
 
 **Nota**: Este projeto é ideal para ambientes controlados e pode ser adaptado para várias aplicações agrícolas e de jardinagem.
+
+
+## Diagrama de circuito
+![Esquema de Conexão dos Sensores](fluxo.png)
+
+## Exemplos de funcionamento
+![Esquema de Conexão dos Sensores](exemplo-fucnionamento-1.png)
+![Esquema de Conexão dos Sensores](exemplo-fucnionamento-2.png)
+![Esquema de Conexão dos Sensores](exemplo-fucnionamento-3.png)
