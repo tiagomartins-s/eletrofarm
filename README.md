@@ -64,9 +64,9 @@ Após a instalação, o sistema monitorará as condições ambientais continuame
 
 
 ## Diagrama de circuito
-![Esquema de Conexão dos Sensores](fluxo.png)
+![Esquema de Conexão dos Sensores](docs/fluxo.png)
 
 ## Exemplos de funcionamento
-![Esquema de Conexão dos Sensores](exemplo-fucnionamento-1.png)
-![Esquema de Conexão dos Sensores](exemplo-fucnionamento-2.png)
-![Esquema de Conexão dos Sensores](exemplo-fucnionamento-3.png)
+![Esquema de Conexão dos Sensores](tests/exemplo-fucnionamento-1.png)
+![Esquema de Conexão dos Sensores](tests/exemplo-fucnionamento-2.png)
+![Esquema de Conexão dos Sensores](tests/exemplo-fucnionamento-3.png)
